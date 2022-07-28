@@ -7,7 +7,7 @@
 
 **Don't ask for support. Just learn coding lol**
 
-> **Note** Not all features are here cuz i don't have time just be patient :skull:
+> **Note** Not all features are here cuz i don't have time just be patient.
 
 
 ## Features
